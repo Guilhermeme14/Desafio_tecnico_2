@@ -13,7 +13,7 @@ Este projeto requer as seguintes bibliotecas Python:
 Instale as dependências usando `pip`:
 
 ```bash
-pip install pandas python-docx unittest
+pip install pandas python-docx
 ```
 
 ## Funcionalidades
